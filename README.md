@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maskypy40
+- 👀 I’m interested in Python and SQL.
+- 🌱 I’m currently learning Python packaging.
+- 💞️ I’m looking to collaborate on Python projects
